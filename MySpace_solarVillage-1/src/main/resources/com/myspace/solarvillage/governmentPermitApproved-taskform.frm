@@ -1,0 +1,1 @@
+{"id":"bed58898-9152-46c4-be1a-5af281c6080d","name":"governmentPermitApproved-taskform.frm","model":{"taskName":"governmentPermitApproved","processId":"solarVillage.solar","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}

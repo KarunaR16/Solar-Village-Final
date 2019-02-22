@@ -1,0 +1,1 @@
+{"id":"3b822ba9-4665-4888-9d5f-43421a0bb054","name":"governmentPermitRejected-taskform.frm","model":{"taskName":"governmentPermitRejected","processId":"solarVillage.solar","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
